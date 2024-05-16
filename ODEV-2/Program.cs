@@ -19,6 +19,7 @@ namespace ODEV_2
             ArrayList  prime= new ArrayList();
 
             ArrayList nonPrime = new ArrayList();
+            //
 
             int sum1= 0;
             int sum2=0;
