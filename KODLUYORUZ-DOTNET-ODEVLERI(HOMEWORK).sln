@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar-soru-3", "Kol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje-1-TELEFON-REHBER-UYGULAMASI", "Proje-1-TELEFON-REHBER-UYGULAMASI\Proje-1-TELEFON-REHBER-UYGULAMASI.csproj", "{543600B9-2502-4A9E-B825-845B00EDCA9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje-2-TODO-APP", "Proje-2-TODO-APP\Proje-2-TODO-APP.csproj", "{22D33FC8-6003-4B2E-8956-5E346E11249D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{543600B9-2502-4A9E-B825-845B00EDCA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{543600B9-2502-4A9E-B825-845B00EDCA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{543600B9-2502-4A9E-B825-845B00EDCA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D33FC8-6003-4B2E-8956-5E346E11249D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D33FC8-6003-4B2E-8956-5E346E11249D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D33FC8-6003-4B2E-8956-5E346E11249D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D33FC8-6003-4B2E-8956-5E346E11249D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
