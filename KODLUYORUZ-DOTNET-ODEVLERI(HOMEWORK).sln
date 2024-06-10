@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje-2-TODO-APP", "Proje-2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNIVERSITY-MANAGEMENT-SYSTEM", "UNIVERSITY-MANAGEMENT-SYSTEM\UNIVERSITY-MANAGEMENT-SYSTEM.csproj", "{F4C3AF15-304E-4AF1-9480-D21EE48E1431}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asansör-Simülasyonu", "Asansör-Simülasyonu\Asansör-Simülasyonu.csproj", "{941CCB6B-E533-4025-9EA1-2A60955ED1F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ortalama_Hesaplama", "Ortalama_Hesaplama\Ortalama_Hesaplama.csproj", "{EBE8E666-1C57-4E49-8D38-6383D1A80226}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{F4C3AF15-304E-4AF1-9480-D21EE48E1431}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4C3AF15-304E-4AF1-9480-D21EE48E1431}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4C3AF15-304E-4AF1-9480-D21EE48E1431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941CCB6B-E533-4025-9EA1-2A60955ED1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941CCB6B-E533-4025-9EA1-2A60955ED1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941CCB6B-E533-4025-9EA1-2A60955ED1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941CCB6B-E533-4025-9EA1-2A60955ED1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE8E666-1C57-4E49-8D38-6383D1A80226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE8E666-1C57-4E49-8D38-6383D1A80226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE8E666-1C57-4E49-8D38-6383D1A80226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE8E666-1C57-4E49-8D38-6383D1A80226}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
