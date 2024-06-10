@@ -1,1 +1,1 @@
-Bu dosya coklu dosyadir kodluyoruzun verdigi odevler ve Projerli icerir
+Bu dosya coklu dosyadir kodluyoruzun verdigi Odevleri ve Projerleri icerir
