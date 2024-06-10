@@ -7,7 +7,7 @@
     <ProjectGuid>{F4C3AF15-304E-4AF1-9480-D21EE48E1431}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>UNIVERSITY_MANAGEMENT_SYSTEM</RootNamespace>
-    <AssemblyName>UNIVERSITY_MANAGEMENT_SYSTEM</AssemblyName>
+    <AssemblyName>UNIVERSITY-MANAGEMENT-SYSTEM</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
