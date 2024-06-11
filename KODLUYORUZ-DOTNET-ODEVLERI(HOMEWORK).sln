@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ucgen_Cizme", "Ucgen_Cizme\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daire_Cizme", "Daire_Cizme\Daire_Cizme.csproj", "{0EBD3A05-B255-49A5-A630-DD459D77F670}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma_Sorusu", "Algoritma_Sorusu\Algoritma_Sorusu.csproj", "{9D1577F0-3F98-4CB9-8F4A-43B9B6ABEF38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{0EBD3A05-B255-49A5-A630-DD459D77F670}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EBD3A05-B255-49A5-A630-DD459D77F670}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EBD3A05-B255-49A5-A630-DD459D77F670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1577F0-3F98-4CB9-8F4A-43B9B6ABEF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1577F0-3F98-4CB9-8F4A-43B9B6ABEF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1577F0-3F98-4CB9-8F4A-43B9B6ABEF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1577F0-3F98-4CB9-8F4A-43B9B6ABEF38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
