@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma_Sorusu", "Algorit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karakter-Tersten-Yazdırma", "Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma.csproj", "{98DB8278-2F77-46B2-AF9C-49AD16C6B0EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(orta-seviye)_Alan-hesaplama_OOP", "(orta-seviye)_Alan-hesaplama_OOP\(orta-seviye)_Alan-hesaplama_OOP.csproj", "{6ABC0A50-4BEA-45D1-8AB4-4A7F6CB8E5C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{98DB8278-2F77-46B2-AF9C-49AD16C6B0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98DB8278-2F77-46B2-AF9C-49AD16C6B0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98DB8278-2F77-46B2-AF9C-49AD16C6B0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABC0A50-4BEA-45D1-8AB4-4A7F6CB8E5C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABC0A50-4BEA-45D1-8AB4-4A7F6CB8E5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABC0A50-4BEA-45D1-8AB4-4A7F6CB8E5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABC0A50-4BEA-45D1-8AB4-4A7F6CB8E5C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
