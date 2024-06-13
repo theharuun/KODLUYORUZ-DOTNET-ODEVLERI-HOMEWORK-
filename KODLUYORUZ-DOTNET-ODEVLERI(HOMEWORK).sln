@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karakter-Tersten-Yazdırma"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(orta-seviye)_Alan-hesaplama_OOP", "(orta-seviye)_Alan-hesaplama_OOP\(orta-seviye)_Alan-hesaplama_OOP.csproj", "{6ABC0A50-4BEA-45D1-8AB4-4A7F6CB8E5C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(orta-seviye)_Integer_Ikililerin_Toplami", "(orta-seviye)_Integer_Ikililerin_Toplami\(orta-seviye)_Integer_Ikililerin_Toplami.csproj", "{C8D4659D-650A-41AD-8B57-B193501D471D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{6ABC0A50-4BEA-45D1-8AB4-4A7F6CB8E5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ABC0A50-4BEA-45D1-8AB4-4A7F6CB8E5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ABC0A50-4BEA-45D1-8AB4-4A7F6CB8E5C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D4659D-650A-41AD-8B57-B193501D471D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D4659D-650A-41AD-8B57-B193501D471D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D4659D-650A-41AD-8B57-B193501D471D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D4659D-650A-41AD-8B57-B193501D471D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
