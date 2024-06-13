@@ -1,1 +1,3 @@
-Bu dosya coklu dosyadir kodluyoruzun verdigi Odevleri ve Projerleri icerir
+THIS FILE CONTAINS THE PROJECTS AND PROBLEMS I HAVE MADE INDIVIDUALLY, ON THE KODLUYORUZ WEBSITE.
+-------------------------------------
+BU DOSYA KODLUYORUZ SİTESİNDE BULUNAN BİREYSEL YAPTIĞIM PROJE VE PROBLEMLERİ İÇERİYOR
