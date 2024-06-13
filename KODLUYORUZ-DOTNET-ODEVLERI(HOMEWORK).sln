@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(orta-seviye)_Alan-hesaplam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(orta-seviye)_Integer_Ikililerin_Toplami", "(orta-seviye)_Integer_Ikililerin_Toplami\(orta-seviye)_Integer_Ikililerin_Toplami.csproj", "{C8D4659D-650A-41AD-8B57-B193501D471D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(Orta-Seviye)_Mutlka_Kare_Alma", "(Orta-Seviye)_Mutlka_Kare_Alma\(Orta-Seviye)_Mutlka_Kare_Alma.csproj", "{DE8B8ADB-5BC4-4A65-8BFA-EB3AE63B456E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{C8D4659D-650A-41AD-8B57-B193501D471D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D4659D-650A-41AD-8B57-B193501D471D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D4659D-650A-41AD-8B57-B193501D471D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8B8ADB-5BC4-4A65-8BFA-EB3AE63B456E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8B8ADB-5BC4-4A65-8BFA-EB3AE63B456E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8B8ADB-5BC4-4A65-8BFA-EB3AE63B456E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8B8ADB-5BC4-4A65-8BFA-EB3AE63B456E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
