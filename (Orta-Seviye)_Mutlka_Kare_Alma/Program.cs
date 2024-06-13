@@ -12,6 +12,7 @@ namespace _Orta_Seviye__Mutlka_Kare_Alma
         {
             ARAYUZ AY = new ARAYUZ();
             AY.RUN();   
+            //ARAYUZ ACILDI
 
             Console.ReadLine();
         }
