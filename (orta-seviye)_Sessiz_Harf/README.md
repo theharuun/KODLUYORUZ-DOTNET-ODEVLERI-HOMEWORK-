@@ -1,7 +1,7 @@
 Algorithm
 Write a console application that prints true if there are two consonants next to each other in the given string expression, or false otherwise.
 
-Example: Input: Hello Umut Arya
+Example: Input: Merhaba Umut Arya
 
 Output: True False True
 --------------------
