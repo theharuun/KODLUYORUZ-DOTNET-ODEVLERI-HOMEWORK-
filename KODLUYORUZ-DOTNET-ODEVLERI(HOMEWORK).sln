@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(Orta-Seviye)_Mutlka_Kare_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(orta-seviye)_Algoritma", "(orta-seviye)_Algoritma\(orta-seviye)_Algoritma.csproj", "{35F8FD96-91D9-4D4A-96DA-3F27FD5500A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(orta-seviye)_Sessiz_Harf", "(orta-seviye)_Sessiz_Harf\(orta-seviye)_Sessiz_Harf.csproj", "{730A1535-53B7-483A-8F11-A9027483F300}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{35F8FD96-91D9-4D4A-96DA-3F27FD5500A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35F8FD96-91D9-4D4A-96DA-3F27FD5500A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35F8FD96-91D9-4D4A-96DA-3F27FD5500A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730A1535-53B7-483A-8F11-A9027483F300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730A1535-53B7-483A-8F11-A9027483F300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730A1535-53B7-483A-8F11-A9027483F300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730A1535-53B7-483A-8F11-A9027483F300}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
