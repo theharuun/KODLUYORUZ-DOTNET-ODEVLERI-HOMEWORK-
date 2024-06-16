@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(orta-seviye)_Algoritma", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(orta-seviye)_Sessiz_Harf", "(orta-seviye)_Sessiz_Harf\(orta-seviye)_Sessiz_Harf.csproj", "{730A1535-53B7-483A-8F11-A9027483F300}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(ileri-seviye)_(Oy-Verme)Voting_Uygulaması", "(ileri-seviye)_(Oy-Verme)Voting_Uygulaması\(ileri-seviye)_(Oy-Verme)Voting_Uygulaması.csproj", "{18486974-813D-4B01-8256-CF93845396EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{730A1535-53B7-483A-8F11-A9027483F300}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{730A1535-53B7-483A-8F11-A9027483F300}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{730A1535-53B7-483A-8F11-A9027483F300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18486974-813D-4B01-8256-CF93845396EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18486974-813D-4B01-8256-CF93845396EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18486974-813D-4B01-8256-CF93845396EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18486974-813D-4B01-8256-CF93845396EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
