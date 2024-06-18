@@ -4,8 +4,8 @@ There should also be an end of day option in the application. When you want to r
 
 Techniques to use:
 
-Writing to File
-Reading from File
+Writing to File,
+Reading from File,
 The transaction list is available as pre-defined.
 ---------------------------
 Uygulama ilk çalıştığında kullanıcıdan yapmak istediği işlemi öğrenmelidir. Bunlar ATM üzerinden yapılabilecek temel işlemledir. Para çekme, para yatırma, ödeme yapma vs.. İsteğe bağlı olarak genişletilebilir. Öncelikle ATM ye giriş yapan kullanıcın sistemde kayıtlı bir kullanıcı olduğundan emin olunmalıdır.
@@ -14,6 +14,6 @@ Uygulamada bir de gün sonu seçeneği olmalıdır. Gün sonu alınmak istendiğ
 
 Kullanılması gereken teknikler:
 
-Dosyaya Yazma
-Dosyadan Okuma
+Dosyaya Yazma,
+Dosyadan Okuma,
 İşlem listesi pre-defined olarak kullanılabilir.
