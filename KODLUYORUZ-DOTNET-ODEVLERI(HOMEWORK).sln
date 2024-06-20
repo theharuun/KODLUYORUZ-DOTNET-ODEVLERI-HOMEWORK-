@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(ileri-seviye)_(Oy-Verme)Vo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(ileri-seviye)_ATM_Uygulaması(application)", "(ileri-seviye)_ATM_Uygulaması(application)\(ileri-seviye)_ATM_Uygulaması(application).csproj", "{CC26090F-912F-4587-9687-BE7C352D4622}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(ileri-seviye)_Barqode(QR)_Generator(olusturucusu)_Reader", "(ileri-seviye)_Barqode(QR)_Generator(olusturucusu)_Reader\(ileri-seviye)_Barqode(QR)_Generator(olusturucusu)_Reader.csproj", "{75A22CCF-72B3-4DFC-8CAE-C7D194085488}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{CC26090F-912F-4587-9687-BE7C352D4622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC26090F-912F-4587-9687-BE7C352D4622}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC26090F-912F-4587-9687-BE7C352D4622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A22CCF-72B3-4DFC-8CAE-C7D194085488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A22CCF-72B3-4DFC-8CAE-C7D194085488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A22CCF-72B3-4DFC-8CAE-C7D194085488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A22CCF-72B3-4DFC-8CAE-C7D194085488}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
